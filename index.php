@@ -5,11 +5,10 @@
         <title></title>
     </head>
     <body>
-       <?php
+<?php
        
        
-       
-       error_reporting(E_ALL);
+
 $imagick = new Imagick(); 
 print_r($imagick);
 
