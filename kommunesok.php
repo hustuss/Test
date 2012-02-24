@@ -15,10 +15,6 @@ foreach($kommuner as $kommune){
 
 echo json_encode(array('results' => $results));
 
-//$jsonified = json_encode($res_array);
-//
-//if(file_put_contents('komno.json', $jsonified)){
-//    print "written to file komno.json";
-//}
+
 
 ?>
