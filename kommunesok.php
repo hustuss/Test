@@ -1,6 +1,6 @@
 <?php
 
-
+//this file is for testing only
 $kommuner = json_decode(file_get_contents('komno.json'));
 
 $search_txt = strtolower(utf8_decode($_GET['term']));
