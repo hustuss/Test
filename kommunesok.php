@@ -14,7 +14,4 @@ foreach($kommuner as $kommune){
 }
 
 echo json_encode(array('results' => $results));
-
-
-
 ?>
