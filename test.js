@@ -59,6 +59,7 @@ function initMap(){
     };
 }
 
+//adding comment to check update
 function loadChurches(){
     
     var komNr = $('#input_komno_hidden').val();
